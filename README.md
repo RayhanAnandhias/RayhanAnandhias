@@ -24,5 +24,4 @@ Here are some ideas to get you started:
 ## 📫 How to reach me
 - Linkedin: 
 [![Linkedin Badge](https://img.shields.io/badge/-Rayhan%20Anandhias-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayhananandhias/)](https://www.linkedin.com/in/rayhananandhias/)
-- Instagram: [![Instagram Badge](https://img.shields.io/badge/-rayhananandhias-E4405F?logo=instagram&logoColor=white&link=https://instagram.com/rayhananandhias/)](https://instagram.com/rayhananandhias/)
 - Email: rayhananandhias@gmail.com
