@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![RayhanAnandhias's GitHub stats](https://github-readme-stats.vercel.app/api?username=RayhanAnandhias&hide=issues,contribs&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![RayhanAnandhias's GitHub stats](https://github-stats-extended.vercel.app/api?username=RayhanAnandhias&hide=issues,contribs&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RayhanAnandhias&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=RayhanAnandhias&theme=onedark&margin-w=15&&title=MultiLanguage,Commit,Followers,Repositories)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=RayhanAnandhias&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to reach me
 - Linkedin: 
