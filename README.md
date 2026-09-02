@@ -1,25 +1,32 @@
-### Hi there 👋
+# Rayhan Azka Anandhias Putra
 
-<!--
-**RayhanAnandhias/RayhanAnandhias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Engineer** · Bandung, Indonesia · 🟢 Open to new opportunities
 
-Here are some ideas to get you started:
+Backend-focused Software Engineer with 4+ years building scalable microservices across enterprise clients in finance, insurance, and government. Specialized in **Golang** and **Java** — from high-concurrency platforms handling 10,000 concurrent users, to report pipelines with 99.8% faster throughput.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-[![RayhanAnandhias's GitHub stats](https://github-stats-extended.vercel.app/api?username=RayhanAnandhias&hide=issues,contribs&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠 Tech Stack
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=RayhanAnandhias&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+**Languages & Frameworks**
+`Golang` `Java (Spring Boot, Quarkus)` `Python` `JavaScript / TypeScript` `Node.js` `React`
 
-## 📫 How to reach me
-- Linkedin: 
-[![Linkedin Badge](https://img.shields.io/badge/-Rayhan%20Anandhias-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayhananandhias/)](https://www.linkedin.com/in/rayhananandhias/)
-- Email: rayhananandhias@gmail.com
+**APIs & Architecture**
+`RESTful APIs` `gRPC` `Microservices` `Event-Driven Systems`
+
+**Databases & Caching**
+`PostgreSQL` `MySQL` `SQL Server` `Oracle` `MongoDB` `Redis`
+
+**Messaging & DevOps**
+`Apache Kafka` `Docker` `OpenShift` `ArgoCD` `GitLab CI` `Grafana`
+
+---
+
+## 📬 Get in Touch
+
+|             |                                                                            |
+| ----------- | -------------------------------------------------------------------------- |
+| 🌐 Website  | [rayhanazka.my.id](https://rayhanazka.my.id)                               |
+| 💼 LinkedIn | [linkedin.com/in/rayhananandhias](https://linkedin.com/in/rayhananandhias) |
+| 🐙 GitHub   | [github.com/RayhanAnandhias](https://github.com/RayhanAnandhias)           |
+| 📧 Email    | rayhananandhias@gmail.com                                                  |
