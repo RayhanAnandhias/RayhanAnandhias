@@ -24,9 +24,10 @@ Backend-focused Software Engineer with 4+ years building scalable microservices 
 
 ## 📬 Get in Touch
 
-|             |                                                                            |
-| ----------- | -------------------------------------------------------------------------- |
-| 🌐 Website  | [rayhanazka.my.id](https://rayhanazka.my.id)                               |
+| Platform | Link |
+| :--- | :--- |
+| 🌐 Website | [rayhanazka.my.id](https://rayhanazka.my.id) |
 | 💼 LinkedIn | [linkedin.com/in/rayhananandhias](https://linkedin.com/in/rayhananandhias) |
-| 🐙 GitHub   | [github.com/RayhanAnandhias](https://github.com/RayhanAnandhias)           |
-| 📧 Email    | rayhananandhias@gmail.com                                                  |
+| 🐙 GitHub | [github.com/RayhanAnandhias](https://github.com/RayhanAnandhias) |
+| 📧 Email | [rayhananandhias@gmail.com](mailto:rayhananandhias@gmail.com) |
+
